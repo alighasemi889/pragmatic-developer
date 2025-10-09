@@ -2,8 +2,7 @@
 <img width="1200" height="630" alt="download" src="https://github.com/user-attachments/assets/5cf8d3f5-2a56-403d-aaa0-976277a0c3fb" />
 
 
-# 📘 The Pragmatic Programmer — Explained & Translated by Ali Ghasemi
-
+# 📘 The Pragmatic Programmer — Explained
 ### 🧠 About This Repository
 Welcome!  
 This repository is my personal exploration and explanation of one of the most influential books in the history of software development —  
