@@ -107,7 +107,7 @@ Hi! I’m **Ali Ghasemi**, a  front-end developer and web application pentester 
 I created this repository as part of my continuous learning journey to document insights from my favorite programming books — starting with _The Pragmatic Programmer_.  
 
 📫 Feel free to connect:  
-- GitHub: [github.com/your-username](https://github.com/alighasemi889)  
+- GitHub: [github.com/alighasemi889](https://github.com/alighasemi889)  
 
 ---
 
