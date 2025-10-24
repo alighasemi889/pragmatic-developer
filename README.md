@@ -103,7 +103,7 @@ Practice clear, honest communication — in writing, code, and conversation.
 ---
 
 ## ✍️ About Me
-Hi! I’m **Ali Ghasemi**, a junior front-end developer passionate about building interactive and elegant web experiences.  
+Hi! I’m **Ali Ghasemi**, a  front-end developer and web application pentester passionate about building interactive and elegant web experiences.  
 I created this repository as part of my continuous learning journey to document insights from my favorite programming books — starting with _The Pragmatic Programmer_.  
 
 📫 Feel free to connect:  
