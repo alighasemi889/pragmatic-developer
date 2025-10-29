@@ -142,7 +142,45 @@ _The Pragmatic Programmer_ فقط یه کتاب کد زدن نیست —
 </div>
 
 ---
+---
 
+## رتبه‌بندی پراگماتیست‌ها (Leaderboard)
+
+> کسانی که **چالش‌ها رو انجام دادن**، **امتیاز گرفتن** و **یه اصل رو تو پروژه واقعی زدن**:
+
+| رتبه | نام | امتیاز | آخرین دستاورد | بج |
+|------|-----|--------|----------------|-----|
+| 1 | **@alighasemi889** | 245 | چالش ۷ روزه + مثال DRY در React | Gold Badge |
+| 2 | @frontend_ninja | 180 | پنجره شکسته در CSS درست کرد | Silver Badge |
+| 3 | @bug_hunter_iran | 150 | تست واحد برای یه کامپوننت نوشت | Bronze Badge |
+| 4 | @react_girl | 110 | یه PR برای مثال Orthogonality فرستاد | Newbie Badge |
+| 5 | @dev_persian | 85 | فصل ۱ رو کامل خوند | Reader Badge |
+
+<div align="center">
+  <img src="https://img.shields.io/badge/رتبه_۱-طلایی-FFD700?style=for-the-badge&logo=trophy" alt="رتبه ۱"/>
+  <img src="https://img.shields.io/badge/رتبه_۲-نقره_ای-C0C0C0?style=for-the-badge&logo=trophy" alt="رتبه ۲"/>
+  <img src="https://img.shields.io/badge/رتبه_۳-برنزی-CD7F32?style=for-the-badge&logo=trophy" alt="رتبه ۳"/>
+</div>
+
+---
+
+### چطور وارد لیدربورد بشی؟
+
+1. **چالش ۷ روزه** رو کامل کن  
+2. توی **Issues** بنویس:  
+   > `من چالش رو تموم کردم! اصل DRY رو در پروژه X پیاده کردم.`  
+3. یه **اسکرین‌شات یا لینک** بذار  
+4. من اسمت رو با **امتیاز + بج** به لیدربورد اضافه می‌کنم!
+
+<div align="center">
+  <a href="https://github.com/alighasemi889/pragmatic-developer/issues">
+    <img src="https://img.shields.io/badge/ورود_به_لیدربورد-همین_الان-FF6B6B?style=for-the-badge&logo=github" alt="ورود به لیدربورد"/>
+  </a>
+</div>
+
+---
+
+> **نکته:** هر هفته لیدربورد آپدیت میشه — و نفرات برتر یه **بج اختصاصی SVG** می‌گیرن!
 ## لایسنس
 
 این کار برای **اهداف آموزشی و شخصی** ساخته شده.  
