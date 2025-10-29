@@ -111,22 +111,6 @@ _The Pragmatic Programmer_ فقط یه کتاب کد زدن نیست —
 
 ---
 
-## ✍️ درباره من (About Me)
-
-Hi! I'm **Ali Ghasemi**, a passionate **front-end developer** and **web application pentester** with a love for crafting interactive, elegant, and secure digital experiences.
-
-- Specializing in **React, Vue.js, and TypeScript**  
-- Active in **OWASP, penetration testing, and bug bounty**  
-- Lifelong learner — documenting insights from classic books like *The Pragmatic Programmer*  
-- This repo is part of my **continuous learning journey** — and you're invited to join!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding in action"/>
-  <br>
-  <sub><em>One line of code a day, one lesson a week</em></sub>
-</div>
-
-**اتصال:** [github.com/alighasemi889](https://github.com/alighasemi889)
 
 ---
 
